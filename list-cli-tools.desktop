@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=List CLI Tools
+Exec=list-cli-tools
+Terminal=false
+Type=Application
+Icon=terminal
+Categories=GNOME;GTK;System;
+NoDisplay=false

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+LIST=$(sort /usr/share/list-cli-tools/cli-tools.list | xargs dpkg -l 2>/dev/null | awk '/^ii/ { printf "%-20s ", $2; for (i=5; i<=NF; i++) printf "%s ", $i; printf "\n" }')
+
+yad --window-icon="terminal" --button="Close" --title "List of CLI packages" --width=800 --height=600 --borders=20 --center --text-info --fontname=mono --text "This is a list of some CLI tools that come preinstalled on this ISO, please run 'apt show pkg_name' or 'man pkg_name' for more info" <<< $LIST
+

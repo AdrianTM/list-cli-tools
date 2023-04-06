@@ -1,0 +1,3 @@
+cli-tools.list          usr/share/list-cli-tools
+list-cli-tools          usr/bin
+list-cli-tools.desktop  usr/share/applications
