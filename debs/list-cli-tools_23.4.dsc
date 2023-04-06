@@ -13,20 +13,20 @@ Build-Depends: debhelper (>= 10)
 Package-List:
  list-cli-tools deb admin optional arch=all
 Checksums-Sha1:
- 28c9b8dfddde8da45e379e0018a20bd2cce5a811 4728 list-cli-tools_23.4.tar.xz
+ ca0884afc84bcf613430da7c0156554e50de6d2c 4736 list-cli-tools_23.4.tar.xz
 Checksums-Sha256:
- 0826cd469bf924a76bfc1e1f6903cd4a86f8e9c855c3edec2fe625f3380d4de9 4728 list-cli-tools_23.4.tar.xz
+ d728b9fe910b3f1f9c049b6463067fa04072e85c1e0210a25865a507d089b2b6 4736 list-cli-tools_23.4.tar.xz
 Files:
- b8770ded51ff66bf5037603197828c52 4728 list-cli-tools_23.4.tar.xz
+ 2282abd056b4722932b97e45d988e3e5 4736 list-cli-tools_23.4.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmQuMN4THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumM1oB/46SnCYajP0J1i/RU/LuyY9O0hRhdtW
-NT+qIVZY3onJXs5bXlLCZjS7XlXecnAmUF47rz3afM9FI0vxQxevVMJLQHgbBJ1D
-6LAMGR+waAcIkfkwa9c0VDw3QD2L6uMe6NNuZLr2xzristSdoL9uLKMasruutroI
-O/WFcTDK8OF15iuUtskRopKunwIisqAgVvj6IpCuHKHvqLDwy/PRhvMVYNfcWQ0U
-1jqXhmQIvsA4QWHObzjAFp7wNxVVbVzQG9ZBDWGP7f+cdXJrIHHw1nggukxYGbaf
-7Az9bUsClIKQoxV5OVgSh94nXOjyZbaGRQLtEEu7y+GCiLs3udy6jYBu
-=TESn
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmQuQTETHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumA36CACb7shYL3VbkrRq7F6xyPtzITXGhX0T
+q2UgQLPvVZYIIBkRohXgulDXndFtLcPeAbmMJ196oqWi/CcFP0Y5T1hEEWjz/Zz9
+1XXyF+LRnfSSgRkHEm3fbFx7PQ5VB5+WKaoy/WvvGaEydn9nEWL1rLO2fHpE0vEG
+Hyodb5n1W9v65f6wOBlzU6AIMoEVo6E0vNhkYY/cbYvy2AgtiHRVFpqBkTvwO7pW
+CIzYzHxCt3vsPTjKokNedzp4w2pflmnqARYoQYSBVA1IIImYkmWM6aaqYi2PexHw
+0dHiBBH7+5RS5WV2RS7c4Q+PQjMYkup51FuoUf057NJ0F1QJtOb3n9+o
+=QasJ
 -----END PGP SIGNATURE-----
