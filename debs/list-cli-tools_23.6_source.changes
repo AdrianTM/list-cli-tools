@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 08 Jun 2023 23:16:29 -0400
+Source: list-cli-tools
+Architecture: source
+Version: 23.6
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ list-cli-tools (23.6) mx; urgency=medium
+ .
+   * Add netdiscover
+Checksums-Sha1:
+ 09a86275577956f4c7a7bc6887c971981ef6c26f 1149 list-cli-tools_23.6.dsc
+ 5b0d138f2f6644cc2be00b37a785e5ea3ce2d805 13336 list-cli-tools_23.6.tar.xz
+ 8a10beb6387b62d580cbfe6119c37379a343232d 5104 list-cli-tools_23.6_amd64.buildinfo
+Checksums-Sha256:
+ 8c1715e14a7d3c0f32931abb9ff52bd8abc6b4cd23dc22352cb793158c4ae62f 1149 list-cli-tools_23.6.dsc
+ 39fafd67b7426dbc5522bdf164fa8606f37eaaa4b894c32e98c9f5117450e2f2 13336 list-cli-tools_23.6.tar.xz
+ dae623df2ccb11de042d6da568887970a382e39507ed2eeb9d9703514a7e7e19 5104 list-cli-tools_23.6_amd64.buildinfo
+Files:
+ c7ba3140744efd9603e647750945c5c5 1149 admin optional list-cli-tools_23.6.dsc
+ b4de14e02b3627df036d1998aae61b88 13336 admin optional list-cli-tools_23.6.tar.xz
+ 370b163085430c12ef31326d17222369 5104 admin optional list-cli-tools_23.6_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSCmeoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumKmMCADT2wk9Bjh0R09CjhX70V8F6Kz4L2k8
+TcKyHBmlZNt0Sci85CvU5kclBOveDuYPYcUawmInJ9quVoZMYi1GG8m4C3Pu7A3N
+37Qu4uadovebfM+eqQUyhBvWqmoPMmj3vfKueN6mUZeEdpNon/b985paa0vYw7ca
+UOTpM4FQL/yjJz+O3uL5WtTWQ08fG9E2xAlV4l19hqxJp1ih4+b5AfAhbstIadxP
+XthCg2ErlECeaa63/ro1PqBIqqOCQWEuqZjviQhHCNgqdzbv7He7SYuE29gDPvkf
+F0u12VbCzaEjzCDykTeqQ71deyHVmoF/p3WBW4olyO+qbALCHkWRkyeg
+=8T7v
+-----END PGP SIGNATURE-----

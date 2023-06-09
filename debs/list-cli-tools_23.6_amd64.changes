@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 08 Jun 2023 23:16:29 -0400
+Source: list-cli-tools
+Binary: list-cli-tools
+Architecture: source all
+Version: 23.6
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ list-cli-tools - List CLI tools installed in Workbench respin
+Changes:
+ list-cli-tools (23.6) mx; urgency=medium
+ .
+   * Add netdiscover
+Checksums-Sha1:
+ 09a86275577956f4c7a7bc6887c971981ef6c26f 1149 list-cli-tools_23.6.dsc
+ 5b0d138f2f6644cc2be00b37a785e5ea3ce2d805 13336 list-cli-tools_23.6.tar.xz
+ 0fa540ba833f28bfe0f5597f42ee44cc48ab2c31 2436 list-cli-tools_23.6_all.deb
+ 8a10beb6387b62d580cbfe6119c37379a343232d 5104 list-cli-tools_23.6_amd64.buildinfo
+Checksums-Sha256:
+ 8c1715e14a7d3c0f32931abb9ff52bd8abc6b4cd23dc22352cb793158c4ae62f 1149 list-cli-tools_23.6.dsc
+ 39fafd67b7426dbc5522bdf164fa8606f37eaaa4b894c32e98c9f5117450e2f2 13336 list-cli-tools_23.6.tar.xz
+ d111a840867430f1617eb90d2c77c3492ae5385082f566beef865734be698ab1 2436 list-cli-tools_23.6_all.deb
+ dae623df2ccb11de042d6da568887970a382e39507ed2eeb9d9703514a7e7e19 5104 list-cli-tools_23.6_amd64.buildinfo
+Files:
+ c7ba3140744efd9603e647750945c5c5 1149 admin optional list-cli-tools_23.6.dsc
+ b4de14e02b3627df036d1998aae61b88 13336 admin optional list-cli-tools_23.6.tar.xz
+ ee219f486f1029ea2b2ec88e58583ee0 2436 admin optional list-cli-tools_23.6_all.deb
+ 370b163085430c12ef31326d17222369 5104 admin optional list-cli-tools_23.6_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSCmeoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBtUB/4q4sN+LbaY4K+S7IYRiwj4uNwOPjLf
+CNxQeoP5DXLjDAQZLVqbk3hKpnWA2K4ViZaFNu4u04Or5PhHVcQxKWqHA7RbxWTy
+HcCFU8+tauW57PIB/my5+czNRXjZGsbWov/fEBffJAc8hBVY6YqHAKRJYan/vRJy
+PZFkNCherAhFaguC5YpHVtVaPdTwJdDynA/J1gEGh55NI/Tp7WyQRHHH6EOchrH4
+owyPzXLlupF6mUgUyQ/kUn3eUo4dw972zmvEqiK2BFI1XguWWpViR4iJ0selzi6K
+z72VPtalFONpsfpPM0IipeVt1hC3c8lTbGQX8li6DHf7ho/cEuYaxvTy
+=bQu2
+-----END PGP SIGNATURE-----
