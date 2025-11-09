@@ -1,9 +1,14 @@
+ack
+ansible
+ansible-lint
 archivemount
 at
 attr
 bar
+bat
 binwalk
 bonnie++
+btop
 can-utils
 cdrdao
 ceni
@@ -23,15 +28,14 @@ ddcutil
 ddrescueview
 ddrutility
 detox
+dfc
 di
 diffstat
 diffutils
 disktype
 dislocker
 dmidecode
-dmraid
 dpt-i2o-raidutils
-dstat
 duf
 dump
 dvtm
@@ -52,7 +56,6 @@ git
 gpart
 hashcat
 hexedit
-hfsutils
 icmpinfo
 idle3-tools
 iftop
@@ -65,7 +68,6 @@ iptables
 iptraf-ng
 iputils-arping
 iputils-tracepath
-isomaster
 kmod
 lftp
 linux-cpupower
@@ -101,7 +103,6 @@ scalpel
 screen
 scrounge-ntfs
 secure-delete
-smbios-utils
 stress-ng
 stressapptest
 sysfsutils
@@ -121,3 +122,4 @@ wormhole
 xfburn
 zerofree
 zfs-fuse
+zoxide

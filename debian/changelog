@@ -1,6 +1,24 @@
+list-cli-tools (25.11) mx; urgency=medium
+
+  * Update list
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 09 Nov 2025 00:51:07 -0500
+
+list-cli-tools (24.7) mx; urgency=medium
+
+  * Add archivemount
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 04 Jul 2024 20:21:28 -0400
+
+list-cli-tools (23.7) mx; urgency=medium
+
+  * Add magic-wormhole
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 19 Jul 2023 23:59:44 -0400
+
 list-cli-tools (23.6) mx; urgency=medium
 
-  * Add netdiscover 
+  * Add netdiscover
 
  -- Adrian <adrian@mxlinux.org>  Thu, 08 Jun 2023 23:16:29 -0400
 
