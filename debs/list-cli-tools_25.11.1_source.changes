@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 09 Nov 2025 18:03:07 -0500
+Source: list-cli-tools
+Architecture: source
+Version: 25.11.1
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ list-cli-tools (25.11.1) mx; urgency=medium
+ .
+   * Update from yad to pyqt6
+      - implement a search field
+      - make colums sortable
+Checksums-Sha1:
+ b342f6223a8724fc3289adeadfa6b78011ffc980 1161 list-cli-tools_25.11.1.dsc
+ df5640a99d9b736d5737ae7e2e094e63c5a6ffbe 15896 list-cli-tools_25.11.1.tar.xz
+ 86f0255a84447a9c5d4013bcd5d6430619af452a 5375 list-cli-tools_25.11.1_amd64.buildinfo
+Checksums-Sha256:
+ 355a34a3e9208fd2c483af6d892186378be3a60ea1dc494d5cd6906e5d5e6c3d 1161 list-cli-tools_25.11.1.dsc
+ d8b7efdf31a70f8aced790ee1cc557e189fc738b6765534afb8cb1f761a1ab87 15896 list-cli-tools_25.11.1.tar.xz
+ 348a9f6812c91b854474e2e0b78598b8e010e5129dd6859ae9f67ed641d22e71 5375 list-cli-tools_25.11.1_amd64.buildinfo
+Files:
+ 9508a8276b94daa090a4002d435cbbf7 1161 admin optional list-cli-tools_25.11.1.dsc
+ 718abb4012e86a4a824a0dae6fc49a86 15896 admin optional list-cli-tools_25.11.1.tar.xz
+ 46c2d971e07e66f13a6bd06941c46c69 5375 admin optional list-cli-tools_25.11.1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmkRHvUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumElAB/9ZeACvMGdhZnLvblOtykOeYdvBusDr
+OUelnT3bA0FK9OfMfKDECH0BSjeV7DObvc/19zmkmgYaGJ5+vb/fnYqW3S0POokv
+bipQTrlYs+a+aQNsepOKOUlnypaNUFZuiTFYqJ01FkfO+a6U+dSqhG5Jp2mjIR//
+AEnDsdLAhV8b6SFkrb/aaWTWeA6wxlc66vuKRzuDyLSXrln7ruQsqG0CgoTnvnvw
+tU/EdVhG+zTySh6gZXnjFpkpL0KhtLWfZjE9Wv0z5kOoim9JGAAFocPAR9ZLfWyp
++ywAeOOAcayHwRODqylg4o/HEqvkAtqNrQd1N3cdbLT7poQBdk4L98Y+
+=5sHI
+-----END PGP SIGNATURE-----

@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 09 Nov 2025 18:03:07 -0500
+Source: list-cli-tools
+Binary: list-cli-tools
+Architecture: source all
+Version: 25.11.1
+Distribution: mx
+Urgency: medium
+Maintainer: Adrian <adrian@mxlinux.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ list-cli-tools - List CLI tools installed in Workbench respin
+Changes:
+ list-cli-tools (25.11.1) mx; urgency=medium
+ .
+   * Update from yad to pyqt6
+      - implement a search field
+      - make colums sortable
+Checksums-Sha1:
+ b342f6223a8724fc3289adeadfa6b78011ffc980 1161 list-cli-tools_25.11.1.dsc
+ df5640a99d9b736d5737ae7e2e094e63c5a6ffbe 15896 list-cli-tools_25.11.1.tar.xz
+ 67713ea3563bf25d142a81732c4eef659946a8cd 5164 list-cli-tools_25.11.1_all.deb
+ 86f0255a84447a9c5d4013bcd5d6430619af452a 5375 list-cli-tools_25.11.1_amd64.buildinfo
+Checksums-Sha256:
+ 355a34a3e9208fd2c483af6d892186378be3a60ea1dc494d5cd6906e5d5e6c3d 1161 list-cli-tools_25.11.1.dsc
+ d8b7efdf31a70f8aced790ee1cc557e189fc738b6765534afb8cb1f761a1ab87 15896 list-cli-tools_25.11.1.tar.xz
+ 4c51a217401f4be768ee4af623376052769690fe05abab04d0c4c5a3f2cebb81 5164 list-cli-tools_25.11.1_all.deb
+ 348a9f6812c91b854474e2e0b78598b8e010e5129dd6859ae9f67ed641d22e71 5375 list-cli-tools_25.11.1_amd64.buildinfo
+Files:
+ 9508a8276b94daa090a4002d435cbbf7 1161 admin optional list-cli-tools_25.11.1.dsc
+ 718abb4012e86a4a824a0dae6fc49a86 15896 admin optional list-cli-tools_25.11.1.tar.xz
+ 2879d1c4eb3c5f11db7b0806978f32fe 5164 admin optional list-cli-tools_25.11.1_all.deb
+ 46c2d971e07e66f13a6bd06941c46c69 5375 admin optional list-cli-tools_25.11.1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmkRHvUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOmBB/459FKBFWIvZPlSdGubStZcGZN/irGe
++xQslcAEbpQz4feCMM69zsBzMrtnbTUhI8qo4KPUZ1u9i1458CrqU52JjE8680ry
+J8avgnJp5QjW2pksTOdAWG+WVAxp3D8mxEMf6G8YVHo6gE7mynmYc8l8Yl+Tjf2x
++HnoZLUx8Bx1AiM/iyV4t6dAXBTa554b/6+LoyLC6eVDFlTeZeNnlfqghqkA8ng3
+CLMDwz11rqCU1HTqWnf7QKJDlSvo2MKS9uLq+kyR5PPDfptN66c+TUeCgJKa4MK1
+He7aa+u/QngxayioM6d7gky0s8qAUmBbinTTox3qHTbhURXN6WOyEhhI
+=ebAI
+-----END PGP SIGNATURE-----
