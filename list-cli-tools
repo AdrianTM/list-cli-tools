@@ -81,6 +81,7 @@ class PackageFilter(QtCore.QSortFilterProxyModel):
 	def __init__(self, parent: QtCore.QObject | None = None) -> None:
 		super().__init__(parent)
 		self.query = ""
+		self.setSortCaseSensitivity(QtCore.Qt.CaseSensitivity.CaseInsensitive)
 
 	def set_query(self, query: str) -> None:
 		self.query = query.strip().lower()
@@ -98,6 +99,18 @@ class PackageFilter(QtCore.QSortFilterProxyModel):
 			if isinstance(value, str) and self.query in value.lower():
 				return True
 		return False
+
+	def lessThan(
+		self, left: QtCore.QModelIndex, right: QtCore.QModelIndex
+	) -> bool:  # noqa: N802
+		model = self.sourceModel()
+		if model is None:
+			return False
+		left_data = model.data(left, QtCore.Qt.ItemDataRole.DisplayRole)
+		right_data = model.data(right, QtCore.Qt.ItemDataRole.DisplayRole)
+		if isinstance(left_data, str) and isinstance(right_data, str):
+			return left_data.lower() < right_data.lower()
+		return super().lessThan(left, right)
 
 
 class PackageWindow(QtWidgets.QMainWindow):
@@ -161,7 +174,9 @@ class PackageWindow(QtWidgets.QMainWindow):
 		self.table.horizontalHeader().setStretchLastSection(True)
 		self.table.verticalHeader().setVisible(False)
 		self.table.setWordWrap(True)
+		self.table.setSortingEnabled(True)
 		self.table.doubleClicked.connect(self.copy_row_to_clipboard)
+		self.table.sortByColumn(0, QtCore.Qt.SortOrder.AscendingOrder)
 		layout.addWidget(self.table, stretch=1)
 
 		self.count_label = QtWidgets.QLabel()
