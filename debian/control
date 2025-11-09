@@ -8,7 +8,7 @@ Vcs-Git: git://github.com/AdrianTM/list-cli-tools
 
 Package: list-cli-tools
 Architecture: all
-Depends: yad
+Depends: python3-pyqt6
 Description: List CLI tools installed in Workbench respin
  This package lists the most important CLI tools that come pre-installed on Workbench
- It uses 'yad 'to display a pop-up window listing each CLI tools with a short description
+ It now uses a PyQt-based viewer with a live search box to browse each CLI tool with a short description
